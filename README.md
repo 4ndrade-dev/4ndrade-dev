@@ -1,15 +1,15 @@
-<!-- Banner Galáxia (Capsule Render Pro) -->
+<!-- Banner Galáctico Animado de Alto Impacto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,1b263b,415a77&height=200&section=header&text=Cristhofer%20Andrade&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,03071e,370617,6a040f,9d0208,d00000,dc2f02,e85d04,f48c06,faa307&height=220&section=header&text=Cristhofer%20Andrade&fontSize=50&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
 
-<!-- Subtítulo Estilizado Galáctico -->
-<h3 align="center">
-  <font color="#9d4edd">🚀 Desenvolvedor Full Stack em Formação | React • JavaScript • Node.js</font>
-</h3>
+<!-- Subtítulo Galáctico -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <sub><b>ADS @ UniSenac Pelotas</b></sub>
+  🌐 <i>"Explorando o universo do desenvolvimento web full stack."</i> 🌌
 </p>
 
 ---
