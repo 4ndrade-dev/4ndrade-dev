@@ -1,3 +1,17 @@
+<!-- Cabeçalho Animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cristhofer%20Andrade&fontSize=50&animation=fadeIn" />
+</p>
+
+<!-- Efeito Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Frontend;React+%7C+Tailwind+CSS+%7C+JavaScript;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no UniSenac Pelotas.
