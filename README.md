@@ -1,13 +1,15 @@
-<!-- Cabeçalho Animado Galáxia -->
+<!-- Banner Galáxia (Capsule Render Pro) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,480ca8,7209b7&height=200&section=header&text=Cristhofer%20Andrade&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,1b263b,415a77&height=200&section=header&text=Cristhofer%20Andrade&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- Efeito Typing Corrigido -->
+<!-- Subtítulo Estilizado Galáctico -->
+<h3 align="center">
+  <font color="#9d4edd">🚀 Desenvolvedor Full Stack em Formação | React • JavaScript • Node.js</font>
+</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5179E&width=500&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
-  </a>
+  <sub><b>ADS @ UniSenac Pelotas</b></sub>
 </p>
 
 ---
