@@ -1,9 +1,9 @@
-<!-- Banner harmonizado com tom bordô/vinho e animação inicial -->
+<!-- Banner harmonizado em vinho/bordô -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=to_right,3b1119,581825,800020&height=200&section=header&text=Cristhofer%20Andrade&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
-<!-- Typing SVG em vermelho bordô sincronizado -->
+<!-- Typing SVG em vermelho vinho -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=800020&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;UniSenac+Pelotas" alt="Typing SVG" />
@@ -40,8 +40,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndrade-dev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrade-dev&layout=compact&theme=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndrade-dev&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrade-dev&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 ---
