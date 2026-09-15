@@ -1,12 +1,14 @@
-<!-- Banner Galáctico em Roxo/Violeta -->
+<!-- Banner Galáxia / Espaço -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,2b0938,5a189a,7b2cbf,3c096c&height=220&section=header&text=Cristhofer%20Andrade&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73561520/167909249-1065e10e-f43b-488b-a8d6-6b2a09c2560e.gif" width="100%" height="160px" style="object-fit: cover;" alt="Galaxy Banner" />
 </p>
 
-<!-- Animação de Escrita com Tailwind CSS -->
+<h1 align="center">Cristhofer Andrade</h1>
+
+<!-- Animação de Escrita com Tailwind, React e Node -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%7C+ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%7C+ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
