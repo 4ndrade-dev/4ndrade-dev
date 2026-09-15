@@ -1,19 +1,17 @@
-<!-- Banner Galáxia / Espaço -->
+<!-- Banner Moderno e Clean -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73561520/167909249-1065e10e-f43b-488b-a8d6-6b2a09c2560e.gif" width="100%" height="160px" style="object-fit: cover;" alt="Galaxy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_right,1e293b,0f172a,3b82f6&height=200&section=header&text=Cristhofer%20Andrade&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Cristhofer Andrade</h1>
-
-<!-- Animação de Escrita com Tailwind, React e Node -->
+<!-- Animação de Digitação com Node.js nas ferramentas e UniSenac no final -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%7C+ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🌐 <i>"Explorando o universo do desenvolvimento web full stack."</i> 🌌
+  💻 <i>"Desenvolvendo interfaces modernas e aplicações web de alto impacto."</i>
 </p>
 
 ---
