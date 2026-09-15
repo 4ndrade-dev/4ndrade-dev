@@ -3,15 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=to_right,1e293b,0f172a,3b82f6&height=200&section=header&text=Cristhofer%20Andrade&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Animação de Digitação com Node.js nas ferramentas e UniSenac no final -->
+<!-- Typing SVG Tech e Chamativo -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%3C+Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%2F%3E;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;UniSenac+Pelotas" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  💻 <i>"Desenvolvendo interfaces modernas e aplicações web de alto impacto."</i>
 </p>
 
 ---
