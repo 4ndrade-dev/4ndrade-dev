@@ -1,12 +1,12 @@
-<!-- Banner Tech Moderno -->
+<!-- Banner Tech Limpo e Seguro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_right,0f172a,1e1b4b,4c0519&height=210&section=header&text=%3C%20Cristhofer%20Andrade%20%2F%3E&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cristhofer%20Andrade&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Typing SVG em tom Vermelho Vinho -->
+<!-- Typing SVG Vermelho Vinho (100% Estável) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B111E&center=true&vCenter=true&width=600&lines=%3C+Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%2F%3E;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+Tailwind+CSS+%7C+JavaScript+%7C+Node.js;UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
