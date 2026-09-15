@@ -6,7 +6,7 @@
 <!-- Efeito Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Frontend;React+%7C+Tailwind+CSS+%7C+JavaScript;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Desenvolvedor+Full+Stack+in+Training;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,9 +15,9 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no UniSenac Pelotas.
-- 💻 Foco total no desenvolvimento **Frontend**, construindo interfaces modernas, responsivas e intuitivas.
-- 🛠️ Experiência prática com **React**, **Tailwind CSS**, **JavaScript** e criação de APIs em **Node.js**.
-- 🐧 Entusiasta do ecossistema **Linux** e prototipagem no **Figma**.
+- 💻 Estudante com base em desenvolvimento **Full Stack**, criando aplicações completas da web ao backend.
+- 🎨 Grande interesse e foco na criação de interfaces modernas e responsivas com **React** e **Tailwind CSS**.
+- 🛠️ Prática com **JavaScript**, **Node.js**, prototipagem no **Figma** e ambiente **Linux**.
 
 ---
 
