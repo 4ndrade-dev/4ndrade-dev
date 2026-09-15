@@ -1,11 +1,13 @@
-<!-- Banner Galáctico Animado de Alto Impacto -->
+<!-- Banner Galáctico em Roxo/Violeta -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,03071e,370617,6a040f,9d0208,d00000,dc2f02,e85d04,f48c06,faa307&height=220&section=header&text=Cristhofer%20Andrade&fontSize=50&fontColor=ffffff&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,2b0938,5a189a,7b2cbf,3c096c&height=220&section=header&text=Cristhofer%20Andrade&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Subtítulo Galáctico -->
+<!-- Animação de Escrita com Tailwind CSS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%7C+ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
