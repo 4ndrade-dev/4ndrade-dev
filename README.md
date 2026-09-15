@@ -1,12 +1,12 @@
-<!-- Cabeçalho Animado (Tema Galáxia / Espaço) -->
+<!-- Cabeçalho Animado Galáxia -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=200&section=header&text=Cristhofer%20Andrade&fontSize=50&animation=fadeIn&fontColor=e0e1dd" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=to_bottom,0d1b2a,480ca8,7209b7&height=200&section=header&text=Cristhofer%20Andrade&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- Efeito Typing em Português -->
+<!-- Efeito Typing Corrigido -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9d4edd&width=500&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5179E&width=500&lines=Desenvolvedor+Full+Stack+em+Formacao;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndrade-dev&show_icons=true&theme=dark_dimmed&title_color=9d4edd&text_color=e0e1dd&bg_color=0d1b2a&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrade-dev&layout=compact&theme=dark_dimmed&title_color=9d4edd&text_color=e0e1dd&bg_color=0d1b2a&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ndrade-dev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrade-dev&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 ---
