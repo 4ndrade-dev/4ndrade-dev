@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=200&section=header&text=Cristhofer%20Andrade&fontSize=50&animation=fadeIn&fontColor=e0e1dd" />
 </p>
 
-<!-- Efeito Typing (Cores Galácticas) -->
+<!-- Efeito Typing em Português -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9d4edd&width=500&lines=Desenvolvedor+Full+Stack+in+Training;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9d4edd&width=500&lines=Desenvolvedor+Full+Stack+em+Formação;React+%7C+JavaScript+%7C+Node.js;ADS+%40+UniSenac+Pelotas" alt="Typing SVG" />
   </a>
 </p>
 
